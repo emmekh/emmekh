@@ -1,4 +1,4 @@
-[![Header](https://github.com/emmekh/emmekh/blob/main/assets/header_img.png)]
+![Header](https://github.com/emmekh/emmekh/blob/main/assets/header_img.png)
 
 <!--
 **emmekh/emmekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
