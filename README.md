@@ -1,5 +1,11 @@
 ![Header](https://github.com/emmekh/emmekh/blob/main/assets/header.png)
 
+## Follow me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/emil-mekhtiyev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=Instagram)](https://www.instagram.com/emil__mf/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmekh&show_icons=true&theme=tokyonight&count_private=true)
+
 <!--
 **emmekh/emmekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
