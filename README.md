@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/emil-mekhtiyev/" title="Follow me on LinkedIn">
   <img
     width="24"
-    alt="LinkedIn"
+    alt="Follow me on LinkedIn"
     src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.svg"
   /></a>
 &nbsp;
