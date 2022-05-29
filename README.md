@@ -1,4 +1,4 @@
-![Header](https://github.com/emmekh/emmekh/blob/main/assets/header.jpg)
+![Header](https://github.com/emmekh/emmekh/blob/main/assets/header.png)
 
 ## Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/emil-mekhtiyev/)
