@@ -8,13 +8,6 @@
     src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.svg"
   /></a>
 &nbsp;
-<a href="https://www.instagram.com/emil__mf/" title="Follow me on Instagram">
-  <img
-    width="24"
-    alt="Follow me on Instagram"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.svg"
-  /></a>
-&nbsp;
 <a href="https://vk.com/mekhtiev_emil" title="Text me in VK">
   <img
     width="24"
@@ -27,6 +20,13 @@
     width="24"
     alt="Text me in Telegram"
     src="https://github.com/emmekh/emmekh/blob/main/assets/telegram.svg"
+  /></a>
+&nbsp;
+<a href="https://www.instagram.com/emil__mf/" title="Follow me on Instagram">
+  <img
+    width="24"
+    alt="Follow me on Instagram"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.svg"
   /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmekh&show_icons=true&theme=tokyonight&count_private=true)
