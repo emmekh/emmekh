@@ -5,28 +5,28 @@
   <img
     width="200"
     alt="Follow me on LinkedIn"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.png1"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.png"
   /></a>
 &nbsp;
 <a href="https://vk.com/mekhtiev_emil" title="Contact me in VK">
   <img
     width="200"
     alt="Contact me in VK"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/vk.png1"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/vk.png"
   /></a>
 &nbsp;
 <a href="https://t.me/Emil_Mekhtiyev" title="Contact me in Telegram">
   <img
     width="200"
     alt="Contact me in Telegram"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/telegram.png1"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/telegram.png"
   /></a>
 &nbsp;
 <a href="https://www.instagram.com/emil__mf/" title="Follow me on Instagram">
   <img
     width="200"
     alt="Follow me on Instagram"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.png1"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.png"
   /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmekh&show_icons=true&theme=tokyonight&count_private=true)
