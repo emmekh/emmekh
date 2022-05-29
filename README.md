@@ -5,28 +5,28 @@
   <img
     width="24"
     alt="Follow me on LinkedIn"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.svg"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/linkedin.png"
   /></a>
 &nbsp;
-<a href="https://vk.com/mekhtiev_emil" title="Text me in VK">
+<a href="https://vk.com/mekhtiev_emil" title="Contact me in VK">
   <img
     width="24"
-    alt="Text me in VK"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/vk.svg"
+    alt="Contact me in VK"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/vk.png"
   /></a>
 &nbsp;
-<a href="https://t.me/Emil_Mekhtiyev" title="Text me in Telegram">
+<a href="https://t.me/Emil_Mekhtiyev" title="Contact me in Telegram">
   <img
     width="24"
-    alt="Text me in Telegram"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/telegram.svg"
+    alt="Contact me in Telegram"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/telegram.png"
   /></a>
 &nbsp;
 <a href="https://www.instagram.com/emil__mf/" title="Follow me on Instagram">
   <img
     width="24"
     alt="Follow me on Instagram"
-    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.svg"
+    src="https://github.com/emmekh/emmekh/blob/main/assets/instagram.png"
   /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmekh&show_icons=true&theme=tokyonight&count_private=true)
